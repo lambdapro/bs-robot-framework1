@@ -1,0 +1,37 @@
+{"level":30,"time":"2022-04-28T18:21:29.865Z","pid":11128,"hostname":"DESKTOP-IJ6PBE9","msg":"Listening on 49903"}
+{"level":30,"time":"2022-04-28T18:21:30.386Z","pid":11128,"hostname":"DESKTOP-IJ6PBE9","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-04-28T18:21:30.387Z","pid":11128,"hostname":"DESKTOP-IJ6PBE9","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-04-28T18:21:30.392Z","pid":11128,"hostname":"DESKTOP-IJ6PBE9","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-04-28T18:21:30.392Z","pid":11128,"hostname":"DESKTOP-IJ6PBE9","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-04-28T18:21:30.398Z","pid":11128,"hostname":"DESKTOP-IJ6PBE9","msg":"Start of node method connectToBrowser"}
+{"level":30,"time":"2022-04-28T18:21:35.575Z","pid":11128,"hostname":"DESKTOP-IJ6PBE9","msg":"End of node method connectToBrowser"}
+{"level":30,"time":"2022-04-28T18:21:35.581Z","pid":11128,"hostname":"DESKTOP-IJ6PBE9","msg":"Start of node method newPage"}
+{"level":30,"time":"2022-04-28T18:21:35.581Z","pid":11128,"hostname":"DESKTOP-IJ6PBE9","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2022-04-28T18:21:36.067Z","pid":11128,"hostname":"DESKTOP-IJ6PBE9","msg":"Changed active context"}
+{"level":30,"time":"2022-04-28T18:21:36.609Z","pid":11128,"hostname":"DESKTOP-IJ6PBE9","msg":"Video path: undefined"}
+{"level":30,"time":"2022-04-28T18:21:36.609Z","pid":11128,"hostname":"DESKTOP-IJ6PBE9","msg":"Changed active page"}
+{"level":30,"time":"2022-04-28T18:21:37.262Z","pid":11128,"hostname":"DESKTOP-IJ6PBE9","msg":"End of node method newPage"}
+{"level":30,"time":"2022-04-28T18:21:37.267Z","pid":11128,"hostname":"DESKTOP-IJ6PBE9","msg":"Start of node method getText"}
+{"level":30,"time":"2022-04-28T18:21:37.268Z","pid":11128,"hostname":"DESKTOP-IJ6PBE9","msg":"Strict mode is enabled, find Locator with h1 in page."}
+{"level":30,"time":"2022-04-28T18:21:38.221Z","pid":11128,"hostname":"DESKTOP-IJ6PBE9","msg":"Retrieved text for element h1 containing Playwright enables reliable end-to-end testing for modern web apps."}
+{"level":30,"time":"2022-04-28T18:21:38.221Z","pid":11128,"hostname":"DESKTOP-IJ6PBE9","msg":"End of node method getText"}
+{"level":30,"time":"2022-04-28T18:21:38.769Z","pid":11128,"hostname":"DESKTOP-IJ6PBE9","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-04-28T18:21:38.934Z","pid":11128,"hostname":"DESKTOP-IJ6PBE9","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-04-28T18:21:38.938Z","pid":11128,"hostname":"DESKTOP-IJ6PBE9","msg":"Changed active context"}
+{"level":30,"time":"2022-04-28T18:21:38.938Z","pid":11128,"hostname":"DESKTOP-IJ6PBE9","msg":"Changing current active page"}
+{"level":30,"time":"2022-04-28T18:21:38.938Z","pid":11128,"hostname":"DESKTOP-IJ6PBE9","msg":"Changed active page"}
+{"level":30,"time":"2022-04-28T18:21:39.128Z","pid":11128,"hostname":"DESKTOP-IJ6PBE9","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-04-28T18:21:39.291Z","pid":11128,"hostname":"DESKTOP-IJ6PBE9","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-04-28T18:21:39.294Z","pid":11128,"hostname":"DESKTOP-IJ6PBE9","msg":"Start of node method switchBrowser"}
+{"level":30,"time":"2022-04-28T18:21:39.295Z","pid":11128,"hostname":"DESKTOP-IJ6PBE9","msg":"End of node method switchBrowser"}
+{"level":30,"time":"2022-04-28T18:21:39.296Z","pid":11128,"hostname":"DESKTOP-IJ6PBE9","msg":"Start of node method switchBrowser"}
+{"level":30,"time":"2022-04-28T18:21:39.296Z","pid":11128,"hostname":"DESKTOP-IJ6PBE9","msg":"End of node method switchBrowser"}
+{"level":30,"time":"2022-04-28T18:21:39.300Z","pid":11128,"hostname":"DESKTOP-IJ6PBE9","msg":"Changed active context"}
+{"level":30,"time":"2022-04-28T18:21:39.300Z","pid":11128,"hostname":"DESKTOP-IJ6PBE9","msg":"Changing current active page"}
+{"level":30,"time":"2022-04-28T18:21:39.300Z","pid":11128,"hostname":"DESKTOP-IJ6PBE9","msg":"Changed active page"}
+{"level":30,"time":"2022-04-28T18:21:39.548Z","pid":11128,"hostname":"DESKTOP-IJ6PBE9","msg":"Start of node method closeContext"}
+{"level":30,"time":"2022-04-28T18:21:39.765Z","pid":11128,"hostname":"DESKTOP-IJ6PBE9","msg":"End of node method closeContext"}
+{"level":30,"time":"2022-04-28T18:21:39.771Z","pid":11128,"hostname":"DESKTOP-IJ6PBE9","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-04-28T18:21:39.771Z","pid":11128,"hostname":"DESKTOP-IJ6PBE9","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-04-28T18:21:39.848Z","pid":11128,"hostname":"DESKTOP-IJ6PBE9","msg":"Start of node method closeAllBrowsers"}
+{"level":30,"time":"2022-04-28T18:21:39.851Z","pid":11128,"hostname":"DESKTOP-IJ6PBE9","msg":"End of node method closeAllBrowsers"}

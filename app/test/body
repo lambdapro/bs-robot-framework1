@@ -1,0 +1,49 @@
+{
+    "seconds": 0.490889,
+    "status": 200,
+    "reason": "OK",
+    "body": {
+        "data": {
+            "test_id": "OW75K-L69JR-SKPFO-NIUUT",
+            "build_id": 5289349,
+            "name": "browser-library",
+            "user_id": 584653,
+            "username": "deekshasalugu",
+            "test_type": "playwright",
+            "duration": 13,
+            "platform": "win10",
+            "browser": "Chrome",
+            "browser_version": "91.0",
+            "status_ind": "completed",
+            "session_id": "OW75K-L69JR-SKPFO-NIUUT",
+            "build_name": "browser-library tests",
+            "create_timestamp": "2022-04-28 06:07:20",
+            "start_timestamp": "2022-04-28 06:07:21",
+            "end_timestamp": "2022-04-28 06:07:34",
+            "remark": "completed",
+            "console_logs_url": "https://api.lambdatest.com/automation/api/v1/sessions/OW75K-L69JR-SKPFO-NIUUT/log/console",
+            "network_logs_url": "https://api.lambdatest.com/automation/api/v1/sessions/OW75K-L69JR-SKPFO-NIUUT/log/network",
+            "command_logs_url": "https://api.lambdatest.com/automation/api/v1/sessions/OW75K-L69JR-SKPFO-NIUUT/log/command",
+            "selenium_logs_url": "https://api.lambdatest.com/automation/api/v1/sessions/OW75K-L69JR-SKPFO-NIUUT/log/selenium",
+            "video_url": "https://automation.lambdatest.com/public/video?testID=OW75K-L69JR-SKPFO-NIUUT&auth=1f9408cf133a14913f3e1bbc7d637152",
+            "screenshot_url": "https://d15x9hjibri3lt.cloudfront.net/OW75K-L69JR-SKPFO-NIUUT/screenshots.zip?orgId=550422&timestamp=1651126040"
+        },
+        "message": "Retrieve session was successful",
+        "status": "success"
+    },
+    "headers": {
+        "Date": "Thu, 28 Apr 2022 18:21:38 GMT",
+        "Content-Type": "application/json",
+        "Transfer-Encoding": "chunked",
+        "Connection": "keep-alive",
+        "Access-Control-Allow-Origin": "*",
+        "Access-Control-Allow-Methods": "GET, POST, PUT, DELETE, OPTIONS, PATCH",
+        "Access-Control-Allow-Headers": "Pragma,DNT,X-CustomHeader,Keep-Alive,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type,Content-Range,Range,Authorization,username",
+        "Access-Control-Expose-Headers": "Pragma,DNT,X-CustomHeader,Keep-Alive,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type,Content-Range,Range",
+        "Content-Encoding": "gzip",
+        "CF-Cache-Status": "DYNAMIC",
+        "Expect-CT": "max-age=604800, report-uri=\"https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct\"",
+        "Server": "cloudflare",
+        "CF-RAY": "7031d19c0c364b0a-HYD"
+    }
+}

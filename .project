@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>bs-robot-framework</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.robotframework.ide.eclipse.main.plugin.robotLibrariesBuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.robotframework.ide.eclipse.main.plugin.robotNature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>libspecs/Process.py</name>
+			<type>1</type>
+			<location>/Users/nithyamani/Library/Python/2.7/lib/python/site-packages/robot/libraries/Process.py</location>
+		</link>
+	</linkedResources>
+</projectDescription>
