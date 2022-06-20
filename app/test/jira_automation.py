@@ -7,10 +7,10 @@ import os
 import datetime
 import config
 
-JIRA_URL = "https://lambdatest.atlassian.net/"  # enter url name here
+JIRA_URL = ""  # enter url name here
 
-JIRA_USERNAME = "deekshasalugu@lambdatest.com"  # enter user name here
-JIRA_PASSWORD = "01A85gNk7MBhTmglawWR1BBA"  # For Jira Cloud use a token generated here: https://id.atlassian.com/manage/api-tokens
+JIRA_USERNAME = ""  # enter user name here
+JIRA_PASSWORD = ""  # For Jira Cloud use a token generated here: https://id.atlassian.com/manage/api-tokens
 
 JIRA_PROJECT_KEY = "DEMO"  # Your project key
 JIRA_ISSUE_TYPE = "Bug"
